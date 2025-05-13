@@ -1,4 +1,5 @@
 
-An analog meter old-fashion Null Meter using only discrete components
+An analog old-school Null Meter using only discrete components
+
 (Kicad project)
 
